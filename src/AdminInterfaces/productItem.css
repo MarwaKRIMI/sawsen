@@ -1,0 +1,90 @@
+.productItem-container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 500px;
+  box-shadow: 8px 8px 8px #f7f5f5;
+  text-align: center;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+
+
+.img-container {
+
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  max-height: 50%;
+}
+
+.img-container img {
+  width: 250px;
+  height: 150;
+  margin-right: 20px
+}
+
+.product-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+  margin: 17px 0 17px 0;
+  height: 45px;
+}
+
+.product-price {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+  margin: 17px 0 17px 0;
+  text-align: center;
+  padding: 10px;
+}
+
+.voir-plus {
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  color: white;
+  border: none;
+  text-align: center;
+}
+
+.edit {
+  width: 40%;
+  height: 50px;
+  background-color: goldenrod;
+  color: white;
+  border: none;
+  text-align: center;
+  margin: 5px
+}
+
+.remove {
+  width: 40%;
+  height: 50px;
+  background-color: goldenrod;
+  color: white;
+  border: none;
+  text-align: center;
+}
+
+.btn-clubs {
+  display: flex;
+  flex-direction: row;
+}
+
+.products-list-display {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.product-description {
+  width: 100%
+}

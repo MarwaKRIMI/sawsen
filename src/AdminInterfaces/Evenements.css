@@ -1,0 +1,49 @@
+.card-style{
+   width:50%;
+   margin-right:2%;
+   margin-left:2%     
+}
+.event-date{
+        position:absolute;
+        top: 0;
+        right: 0;
+        padding: 5px 10px;
+        border: 2px solid black;
+        border-top: none;
+        border-right:none;
+        color:black;
+        font-size:20px;
+        font-family:Circular,Helvetica,Arial,sans-serif;
+}
+.card-event{
+        width:50%;
+}
+
+.btn-event{
+        width:200px;
+        height: 50px;
+      background-color: orange;
+      color:white;
+      border:none;
+      margin-left:20%;
+      margin-top:50px;
+      
+      }
+
+      .btn-event:hover{
+      background: #000;
+      -webkit-transition: 0.5s all;
+      -o-transition: 0.5s all;
+      -moz-transition: 0.5s all;
+      -ms-transition: 0.5s all;
+      transition: 0.5s all;
+}
+
+.event-title{
+        text-align: center;
+        margin-top: 50px;
+        font-family:Circular,Helvetica,Arial,sans-serif;
+        background-color: beige;
+        width:80%;
+        margin-left:10%   
+}

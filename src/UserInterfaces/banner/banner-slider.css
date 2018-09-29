@@ -1,0 +1,12 @@
+/* .video-fluid d-block{
+    width:1000px;
+    height:700px;
+} */
+.galerie-title{
+    text-align: center;
+    margin-top: 50px;
+    font-family:Circular,Helvetica,Arial,sans-serif;
+    background-color: beige;
+    width:80%;
+    margin-left:10%
+}
